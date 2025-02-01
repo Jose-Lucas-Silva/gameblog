@@ -1,8 +1,6 @@
-package com.gamesblog.gamelist;
+package com.gamesblog.gamelist.dto;
 
 import com.gamesblog.gamelist.entities.Game;
-
-import jakarta.persistence.Column;
 
 public class GameMinDTO {
 
